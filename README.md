@@ -1,6 +1,5 @@
 # rippleapi
 
-This is the source code for Ripple's API.
+This is Akatsuki's API, based on Ripple's API.
 
-- Origin: https://git.zxq.co/ripple/rippleapi
-- Mirror: https://github.com/osuripple/api
+- Ripple API: https://git.zxq.co/ripple/rippleapi
