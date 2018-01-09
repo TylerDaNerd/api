@@ -21,6 +21,7 @@ type userScoresResponse struct {
 
 const userScoreSelectBase = `
 SELECT
+	DISTINCT
 	scores.id, scores.beatmap_md5, scores.score,
 	scores.max_combo, scores.full_combo, scores.mods,
 	scores.300_count, scores.100_count, scores.50_count,
